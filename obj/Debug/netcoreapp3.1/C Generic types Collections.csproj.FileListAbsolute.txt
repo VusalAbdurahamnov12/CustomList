@@ -1,0 +1,14 @@
+E:\homework\C Generic types Collections\C Generic types Collections\bin\Debug\netcoreapp3.1\C Generic types Collections.exe
+E:\homework\C Generic types Collections\C Generic types Collections\bin\Debug\netcoreapp3.1\C Generic types Collections.deps.json
+E:\homework\C Generic types Collections\C Generic types Collections\bin\Debug\netcoreapp3.1\C Generic types Collections.runtimeconfig.json
+E:\homework\C Generic types Collections\C Generic types Collections\bin\Debug\netcoreapp3.1\C Generic types Collections.runtimeconfig.dev.json
+E:\homework\C Generic types Collections\C Generic types Collections\bin\Debug\netcoreapp3.1\C Generic types Collections.dll
+E:\homework\C Generic types Collections\C Generic types Collections\bin\Debug\netcoreapp3.1\C Generic types Collections.pdb
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.csproj.AssemblyReference.cache
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.AssemblyInfoInputs.cache
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.AssemblyInfo.cs
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.csproj.CoreCompileInputs.cache
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.dll
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.pdb
+E:\homework\C Generic types Collections\C Generic types Collections\obj\Debug\netcoreapp3.1\C Generic types Collections.genruntimeconfig.cache
